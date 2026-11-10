@@ -1,4 +1,12 @@
-\------------>>> E2E Playwright Setup
+\------------>>>
+
+
+
+IMPORTANT NOTE: Personally had to switch from 'IIS Express' to 'BlazorDemo', in the tab next to the one which chooses the startup configuration.
+
+
+
+\------------>>> E2E Playwright Setup (Long Version)
 
 
 
