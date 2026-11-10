@@ -1,8 +1,20 @@
+\------------>>> Notes
+
+
+
+IMPORTANT: You may have to switch from 'IIS Express' to 'BlazorDemo', in the dropwon-tab next to the one which chooses the startup configuration (in the toolbar up near the menus, in Visual Studio).
+
+
+
+Note: According to the clanker, it SHOULD work when run from the test explorer, but I was personally unable to run the test, because the \[Run Test] buttons get disabled when starting the project. This hasn't been resolved per current writing (10-11-2026).
+
+
+
+\* \* \* REMEMBER THAT FOR THE E2E TO WORK, THE PROJECT NEEDS TO BE RUNNING (F5). \* \* \*
+
+
+
 \------------>>>
-
-
-
-IMPORTANT NOTE: Personally had to switch from 'IIS Express' to 'BlazorDemo', in the tab next to the one which chooses the startup configuration.
 
 
 
